@@ -6,7 +6,7 @@
 
 *Note*: this assignment requires understanding tail-recursion, which was introduced in the Challenge section of the 02/07 worksheet. I strongly recommend completing that worksheet before attempting this assignment.
 
-In the 02/07 worksheet, we looked list recursion and specifically the idea of a singly-linked list that doesn't have a `size` member variable. Instead of talking about recursive *algorithms*, we can actually talk about recursive *data structures*. The singly-linked list is a good example: we can consider a "list" that consists of *just* each node, pointing to the rest of the list:
+In the 09/18 worksheet, we looked list recursion and specifically the idea of a singly-linked list that doesn't have a `size` member variable. Instead of talking about recursive *algorithms*, we can actually talk about recursive *data structures*. The singly-linked list is a good example: we can consider a "list" that consists of *just* each node, pointing to the rest of the list:
 
 ```java
 class ListNode {
