@@ -1,8 +1,8 @@
 
 
 ## Data Structures Programming Assignment 1
-### due Friday 02/18 @5pm
-#### accepted as on time until Sunday 02/20 @11:59pm
+### due Friday10/13 @11:59
+
 
 *Note*: this assignment requires understanding tail-recursion, which was introduced in the Challenge section of the 02/07 worksheet. I strongly recommend completing that worksheet before attempting this assignment.
 
