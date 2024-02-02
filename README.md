@@ -1,12 +1,12 @@
 
 
 ## Data Structures Programming Assignment 1
-### due Friday10/13 @11:59
+### due Monday 02/19 @11:59 PM
 
 
-*Note*: this assignment requires understanding tail-recursion, which was introduced in the Challenge section of the 09/06 worksheet. I strongly recommend completing that worksheet before attempting this assignment.
+*Note*: this assignment requires understanding tail-recursion, which was introduced in the Challenge section of the  worksheet. I strongly recommend completing that worksheet before attempting this assignment.
 
-In the 09/18 worksheet, we looked list recursion and specifically the idea of a singly-linked list that doesn't have a `size` member variable. Instead of talking about recursive *algorithms*, we can actually talk about recursive *data structures*. The singly-linked list is a good example: we can consider a "list" that consists of *just* each node, pointing to the rest of the list:
+In the 02/09 worksheet, we looked list recursion and specifically the idea of a singly-linked list that doesn't have a `size` member variable. Instead of talking about recursive *algorithms*, we can actually talk about recursive *data structures*. The singly-linked list is a good example: we can consider a "list" that consists of *just* each node, pointing to the rest of the list:
 
 ```java
 class ListNode {
